@@ -23,6 +23,15 @@ let mynickname: String = "Pu"
 nameString = "Nardanong.s1234"
 //mynickname = "Pu1234" // Cannot Compile Error Because Data Type is let
 
+//Operating
+var answer1: Int = numberInt + 100
+var answer2: Int = numberInt1+Int(numnerDou1)
+
+var number: String = "500"
+var number1: Int = Int(number)!
+
+
+
 
 
 
