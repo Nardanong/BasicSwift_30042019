@@ -14,13 +14,11 @@ class Myclass {
     func funcReturnType() -> String {
         let prefix = "Mr."
         return "\(prefix)\(myName)"
-        
     }
 //  ฟังก์ชั่นที่มี พารามิเตอร์
     func calculate(paraX:Int,unit:String) -> Void {
         let response = "\(paraX) \(unit)"
         print("respon ==> \(response)")
-        
     }
     
 }//My Class
